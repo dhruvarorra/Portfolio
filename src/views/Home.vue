@@ -120,10 +120,20 @@
           </v-card>
         </v-col>
         <v-col md="3" offset-md="3" class="mt-0">
-          <v-btn color="white" dark text class="ml-n4"> Job Vista </v-btn><br />
+          <a href="https://jobvistaaa.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <v-btn color="white" dark text class="ml-n4">
+    Job Vista
+  </v-btn>
+</a>
+
         </v-col>
         <v-col md="3" class="mt-0">
-          <v-btn color="white" dark text class="ml-n4"> Kanban Board </v-btn><br />
+          <a href="https://dhruvkanbanboard.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <v-btn color="white" dark text class="ml-n4">
+    Kanban Board
+  </v-btn>
+</a>
+
         </v-col>
         <v-col md="3" offset-md="3" class="mt-negative">
           <v-card class="pa-2 py-12" outlined tile height="250px" color="#1E1E1E">
@@ -136,10 +146,20 @@
           </v-card>
         </v-col>
         <v-col md="3" offset-md="3" class="mt-0">
-          <v-btn color="white" dark text class="ml-n4"> Calculator </v-btn><br />
+         <a href="https://dhruvaroracalculator.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <v-btn color="white" dark text class="ml-n4">
+    Calculator
+  </v-btn>
+</a>
+
         </v-col>
         <v-col md="3" class="mt-0">
-          <v-btn color="white" dark text class="ml-n4"> Portfolio </v-btn><br />
+         <a href="https://dhruvarorraportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <v-btn color="white" dark text class="ml-n4">
+    Portfolio
+  </v-btn>
+</a>
+
         </v-col>
         <v-col cols="12" class="padd topInverse">
           <div class="second">
